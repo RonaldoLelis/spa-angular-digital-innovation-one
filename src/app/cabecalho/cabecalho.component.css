@@ -1,0 +1,23 @@
+.header{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header img{
+    max-height: 60px;
+}
+
+.title-header{
+    padding-left: 15px;
+}
+
+.titulo-cabecalho i{
+    padding-right: 7px;;
+}
